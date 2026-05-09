@@ -1,0 +1,36 @@
+{
+"vertices": [
+    {"id":0,"type":"Vertex","x":0.000,"y":0.000},
+    {"id":2,"type":"Vertex","x":60.000,"y":0.000},
+    {"id":3,"type":"Vertex","x":120.000,"y":0.000},
+    {"id":4,"type":"Vertex","x":200.000,"y":0.000},
+    {"id":5,"type":"Vertex","x":90.000,"y":25.000},
+    {"id":9,"type":"Vertex","x":-0.000,"y":60.000},
+    {"id":10,"type":"Vertex","x":-0.000,"y":120.000},
+    {"id":11,"type":"Vertex","x":-0.000,"y":200.000},
+    {"id":12,"type":"Vertex","x":-25.000,"y":90.000},
+    {"id":16,"type":"Vertex","x":-60.000,"y":-0.000},
+    {"id":17,"type":"Vertex","x":-120.000,"y":-0.000},
+    {"id":18,"type":"Vertex","x":-200.000,"y":-0.000},
+    {"id":19,"type":"Vertex","x":-90.000,"y":-25.000},
+    {"id":23,"type":"Vertex","x":0.000,"y":-60.000},
+    {"id":24,"type":"Vertex","x":0.000,"y":-120.000},
+    {"id":25,"type":"Vertex","x":0.000,"y":-200.000},
+    {"id":26,"type":"Vertex","x":25.000,"y":-90.000}
+  ],
+"edges": [
+    {"id":1,"type":"Circle","center_id":0,"radius":200.000},
+    {"id":6,"type":"Line","p1_id":0,"p2_id":2},
+    {"id":7,"type":"Arc","center_id":5,"start_id":3,"end_id":2},
+    {"id":8,"type":"Line","p1_id":3,"p2_id":4},
+    {"id":13,"type":"Line","p1_id":0,"p2_id":9},
+    {"id":14,"type":"Arc","center_id":12,"start_id":10,"end_id":9},
+    {"id":15,"type":"Line","p1_id":10,"p2_id":11},
+    {"id":20,"type":"Line","p1_id":0,"p2_id":16},
+    {"id":21,"type":"Arc","center_id":19,"start_id":17,"end_id":16},
+    {"id":22,"type":"Line","p1_id":17,"p2_id":18},
+    {"id":27,"type":"Line","p1_id":0,"p2_id":23},
+    {"id":28,"type":"Arc","center_id":26,"start_id":24,"end_id":23},
+    {"id":29,"type":"Line","p1_id":24,"p2_id":25}
+  ]
+}

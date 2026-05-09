@@ -1,0 +1,18 @@
+文件状态
+src/circle.h    全新重写
+src/circle.cpp  全新重写
+src/line.h      全新重写
+src/line.cpp    全新重写
+src/vertex.h    修改了两行
+src/edge.cpp    修改了两个函数
+src/sketch.h    修改了两行声明
+src/sketch.cpp  修改了多处
+
+
+分组    文件    角色
+工具盒  point.h bounding_box.h *_constants.h    提供小工具和常量
+抽象基类            entity.h                     所有几何元素的"祖宗"
+顶点        vertex.h vertex.cpp                 表示一个2D点
+边的家族    edge.h/cpp line.* circle.* arc.*    直线、圆、弧
+总管        sketch.h sketch..cpp                管理所有顶点和边
+入口                main.cpp                    测试程序

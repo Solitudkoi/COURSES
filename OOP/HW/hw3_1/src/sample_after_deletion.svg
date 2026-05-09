@@ -1,0 +1,25 @@
+<svg width="420.0" height="420.0" viewBox="-210.0 -210.0 420.0 420.0" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="0.0" cy="-0.0" r="200.0" stroke="black" stroke-width="4.0" fill="none"/>
+  <line x1="0.0" y1="-0.0" x2="60.0" y2="-0.0" stroke="black" stroke-width="4.0" stroke-linecap="round"/>
+  <path d="M 120.0 -0.0 A 39.1 39.1 0 1 0 60.0 -0.0" stroke="black" stroke-width="4.0" stroke-linecap="round" fill="none"/>
+  <line x1="120.0" y1="-0.0" x2="200.0" y2="-0.0" stroke="black" stroke-width="4.0" stroke-linecap="round"/>
+  <line x1="0.0" y1="-0.0" x2="-0.0" y2="-60.0" stroke="black" stroke-width="4.0" stroke-linecap="round"/>
+  <path d="M -0.0 -120.0 A 39.1 39.1 0 1 0 -0.0 -60.0" stroke="black" stroke-width="4.0" stroke-linecap="round" fill="none"/>
+  <line x1="-0.0" y1="-120.0" x2="-0.0" y2="-200.0" stroke="black" stroke-width="4.0" stroke-linecap="round"/>
+  <line x1="0.0" y1="-0.0" x2="0.0" y2="60.0" stroke="black" stroke-width="4.0" stroke-linecap="round"/>
+  <path d="M 0.0 120.0 A 39.1 39.1 0 1 0 0.0 60.0" stroke="black" stroke-width="4.0" stroke-linecap="round" fill="none"/>
+  <line x1="0.0" y1="120.0" x2="0.0" y2="200.0" stroke="black" stroke-width="4.0" stroke-linecap="round"/>
+  <circle cx="0.0" cy="-0.0" r="0.5" fill="black"/>
+  <circle cx="60.0" cy="-0.0" r="0.5" fill="black"/>
+  <circle cx="120.0" cy="-0.0" r="0.5" fill="black"/>
+  <circle cx="200.0" cy="-0.0" r="0.5" fill="black"/>
+  <circle cx="90.0" cy="-25.0" r="0.5" fill="black"/>
+  <circle cx="-0.0" cy="-60.0" r="0.5" fill="black"/>
+  <circle cx="-0.0" cy="-120.0" r="0.5" fill="black"/>
+  <circle cx="-0.0" cy="-200.0" r="0.5" fill="black"/>
+  <circle cx="-25.0" cy="-90.0" r="0.5" fill="black"/>
+  <circle cx="0.0" cy="60.0" r="0.5" fill="black"/>
+  <circle cx="0.0" cy="120.0" r="0.5" fill="black"/>
+  <circle cx="0.0" cy="200.0" r="0.5" fill="black"/>
+  <circle cx="25.0" cy="90.0" r="0.5" fill="black"/>
+</svg>
